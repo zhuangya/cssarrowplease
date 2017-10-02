@@ -20,7 +20,7 @@
     "start": "node ./bin/server"
   },
   "dependencies": {
-    "connect": "~2.0.3"
+    "connect": "~2.3.7"
   },
   "devDependencies": {
     "assetgraph-builder": ">=0.2.37"
